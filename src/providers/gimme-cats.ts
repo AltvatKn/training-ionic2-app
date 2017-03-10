@@ -18,10 +18,6 @@ export class GimmeCats {
   data: any;
 
   load() {
-  if (this.data) {
-    // already loaded data
-    return Promise.resolve(this.data);
-  }
 
   // don't have the data yet
   console.log("Trying to pull data from API...")
@@ -29,7 +25,7 @@ export class GimmeCats {
     // We're using Angular HTTP provider to request the data,
     // then on the response, it'll map the JSON data to a parsed JS object.
     // Next, we process the data and resolve the promise with the new data.
-    this.http.get('https://www.reddit.com/r/catsstandingup.json')
+    this.http.get('https://www.reddit.com/r/catsstandingup/new.json?limit=50'/*+'&before='+bef*/)
       .map(res => res.json())
       .subscribe(data => {
         // we've got back the raw data, now generate the core schedule data

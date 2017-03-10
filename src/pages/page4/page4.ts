@@ -12,6 +12,7 @@ import { GimmeCats } from '../../providers/gimme-cats';
 
 export class Page4Page {
   public children: any;
+  //public before: any;
 
   constructor(public navCtrl: NavController, public navParams: NavParams, public moreCats: GimmeCats) {}
 
@@ -30,6 +31,7 @@ export class Page4Page {
   this.moreCats.load()
   .then(data => {
     this.children = data;
+    //this.before = data.after;
   });
 
 
