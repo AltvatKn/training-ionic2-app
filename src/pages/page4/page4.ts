@@ -22,8 +22,24 @@ export class Page4Page {
     this.loadCats();
   }
 
-  checkURL(child){
-    return child.data.url.endsWith(".jpg");
+  isJPGurl(child){
+    return (child.data.url.endsWith(".jpg"));
+  }
+
+  isImgur(child){
+    return child.data.url.indexOf("imgur") != -1;
+  }
+
+  isImgurGallery(child){
+    return child.data.url.indexOf("gallery") != -1;
+  }
+
+  remGalFromLink(str){
+    return str.replace("gallery/", "");
+  }
+
+  isImgurGif(child){
+    return child.data.url.indexOf(".gif") != -1;
   }
 
   loadCats(){
