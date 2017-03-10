@@ -71,7 +71,7 @@
     </ion-card >
     <ion-card *ngIf="!isJPGurl(child) && isImgurGif(child)">
 
-      <img src={{child.data.url}}/>
+      <img src={{cleanGifLink(child.data.url)}}/>
 
       <ion-card-content>
         <ion-card-title>

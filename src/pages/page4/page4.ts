@@ -50,6 +50,14 @@ export class Page4Page {
     return child.data.url.indexOf(".gif") != -1;
   }
 
+  cleanGifLink(str){
+    if(str.indexOf(".gifv") !== -1){
+      return str.replace(".gifv", ".gif");
+    } else {
+      return str;
+    }
+  }
+
   loadCats(){
     console.log("Accessing API data...");
   this.moreCats.load()
