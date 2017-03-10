@@ -22,7 +22,7 @@
       </ion-card-content>
     </ion-card >
 
-    <ion-card *ngIf="!isJPGurl(child) && isImgur(child) && !isImgurGallery(child) && !isImgurGif(child)">
+    <ion-card *ngIf="!isJPGurl(child) && isImgur(child) && !isImgurGallery(child) && !isImgurA(child) && !isImgurGif(child)">
 
         <img src="{{child.data.url}}.jpg"/>
 
@@ -34,9 +34,21 @@
       </ion-card-content>
     </ion-card>
 
-    <ion-card *ngIf="!isJPGurl(child) && isImgur(child) && isImgurGallery(child) && !isImgurGif(child)">
+    <ion-card *ngIf="!isJPGurl(child) && isImgur(child) && isImgurGallery(child) &&!isImgurA(child) && !isImgurGif(child)">
 
         <img src="{{remGalFromLink(child.data.url)}}.jpg"/>
+
+      <ion-card-content>
+        <ion-card-title>
+          {{child.data.title}}
+        </ion-card-title>
+        <ion-icon name="arrow-round-up" > {{child.data.score}} </ion-icon>
+      </ion-card-content>
+    </ion-card >
+
+    <ion-card *ngIf="!isJPGurl(child) && isImgur(child) && isImgurA(child) && !isImgurGif(child)">
+
+        <img src="{{remAFromLink(child.data.url)}}.jpg"/>
 
       <ion-card-content>
         <ion-card-title>
