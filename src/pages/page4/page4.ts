@@ -38,16 +38,18 @@ export class Page4Page {
     return child.data.url.indexOf("/a/") != -1;
   }
 
-  remGalFromLink(str){
-    return str.replace("gallery/", "");
-  }
-
-  remAFromLink(str){
-    return str.replace("a/", "");
-  }
-
-  isImgurGif(child){
+    isImgurGif(child){
     return child.data.url.indexOf(".gif") != -1;
+  }
+
+  cleanImgLink(str){
+    if(str.indexOf("gallery") !== -1){
+     str = str.replace("gallery/", "");
+    }
+    if(str.indexOf("/a/") !== -1){
+      str = str.replace("a/", "");
+    }
+    return str;
   }
 
   cleanGifLink(str){

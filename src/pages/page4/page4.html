@@ -36,7 +36,7 @@
 
     <ion-card *ngIf="!isJPGurl(child) && isImgur(child) && isImgurGallery(child) &&!isImgurA(child) && !isImgurGif(child)">
 
-        <img src="{{remGalFromLink(child.data.url)}}.jpg"/>
+        <img src="{{cleanImgLink(child.data.url)}}.jpg"/>
 
       <ion-card-content>
         <ion-card-title>
@@ -48,7 +48,7 @@
 
     <ion-card *ngIf="!isJPGurl(child) && isImgur(child) && isImgurA(child) && !isImgurGif(child)">
 
-        <img src="{{remAFromLink(child.data.url)}}.jpg"/>
+        <img src="{{cleanImgLink(child.data.url)}}.jpg"/>
 
       <ion-card-content>
         <ion-card-title>
