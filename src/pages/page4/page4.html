@@ -1,0 +1,24 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>CatsStandingUp</ion-title>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content class="page-page4">
+  <div *ngFor="let child of children">
+    <ion-card *ngIf="checkURL(child)">
+
+        <img src={{child.data.url}}/>
+
+      <ion-card-content>
+        <ion-card-title>
+          {{child.data.title}}
+        </ion-card-title>
+      </ion-card-content>
+    </ion-card >
+  </div>
+</ion-content>

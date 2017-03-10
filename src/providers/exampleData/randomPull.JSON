@@ -1,0 +1,380 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "monsieur",
+        "first": "hadrien",
+        "last": "david"
+      },
+      "location": {
+        "street": "1942 rue de la charité",
+        "city": "bussigny",
+        "state": "st. gallen",
+        "postcode": 5568
+      },
+      "email": "hadrien.david@example.com",
+      "login": {
+        "username": "redcat853",
+        "password": "xiang",
+        "salt": "P9AhPdpz",
+        "md5": "b76a7ed516a8efb409a04227def59866",
+        "sha1": "a34a2c6ebdd011c9b2528874cc8e2019c1705377",
+        "sha256": "2b133133a2941e12f8d14113b543550ef68474af7d29367d10a844ff717a22d0"
+      },
+      "dob": "1966-06-29 22:29:57",
+      "registered": "2009-12-24 09:16:24",
+      "phone": "(935)-177-6486",
+      "cell": "(753)-123-1265",
+      "id": {
+        "name": "AVS",
+        "value": "756.JGST.NWGL.94"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/71.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
+      },
+      "nat": "CH"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "dwayne",
+        "last": "campbell"
+      },
+      "location": {
+        "street": "525 green rd",
+        "city": "albury",
+        "state": "new south wales",
+        "postcode": 1192
+      },
+      "email": "dwayne.campbell@example.com",
+      "login": {
+        "username": "heavyfish171",
+        "password": "stonecol",
+        "salt": "W9gkTjsV",
+        "md5": "d7b7ce536b669407f3e6067ab26a874e",
+        "sha1": "92e83c780045b7c3259b4e55e4175e661be99d7d",
+        "sha256": "3677db884a4661a7b70e4c30708d50cba350044f025841e779a7c065c250e560"
+      },
+      "dob": "1961-03-27 14:41:11",
+      "registered": "2007-02-01 22:54:55",
+      "phone": "03-0063-2300",
+      "cell": "0419-059-359",
+      "id": {
+        "name": "TFN",
+        "value": "479578354"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/54.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/54.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/54.jpg"
+      },
+      "nat": "AU"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "julien",
+        "last": "bonnet"
+      },
+      "location": {
+        "street": "6365 rue gasparin",
+        "city": "villeurbanne",
+        "state": "paris",
+        "postcode": 14712
+      },
+      "email": "julien.bonnet@example.com",
+      "login": {
+        "username": "purplemouse431",
+        "password": "rollin",
+        "salt": "PPbJgnWK",
+        "md5": "00abd9636b1d4ecae8b60c586a2b3f66",
+        "sha1": "37c16e248ed5e109db028f281ad10da5d9b9830d",
+        "sha256": "c6ef00b2da045c732ffd706e0b07ea87b7c8745f00fa13763cc455fea287413d"
+      },
+      "dob": "1989-09-22 07:44:41",
+      "registered": "2012-08-15 11:46:48",
+      "phone": "04-68-83-00-05",
+      "cell": "06-48-34-37-87",
+      "id": {
+        "name": "INSEE",
+        "value": "189875552577 81"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/70.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
+      },
+      "nat": "FR"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "rodrigo",
+        "last": "saez"
+      },
+      "location": {
+        "street": "5239 calle de argumosa",
+        "city": "ciudad real",
+        "state": "comunidad valenciana",
+        "postcode": 14768
+      },
+      "email": "rodrigo.saez@example.com",
+      "login": {
+        "username": "smallpeacock236",
+        "password": "puppy",
+        "salt": "hmapbvVa",
+        "md5": "0d2dac6395b3cf3358c9f810befc84f9",
+        "sha1": "883a7b75066b61d1d2661fb563362f90b8472e71",
+        "sha256": "6865ecf08ab9120b0bee2e656efb9ae6bd630f1a07d4b67e164a23cdb4598745"
+      },
+      "dob": "1970-01-25 23:19:19",
+      "registered": "2008-10-27 02:46:26",
+      "phone": "979-532-036",
+      "cell": "658-588-128",
+      "id": {
+        "name": "DNI",
+        "value": "78446543-C"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/46.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
+      },
+      "nat": "ES"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "clarence",
+        "last": "wade"
+      },
+      "location": {
+        "street": "8130 mcclellan rd",
+        "city": "peoria",
+        "state": "nevada",
+        "postcode": 48038
+      },
+      "email": "clarence.wade@example.com",
+      "login": {
+        "username": "reddog156",
+        "password": "crawford",
+        "salt": "0hqj9Vnp",
+        "md5": "e5c720f07f59bbd00933361dc830b8e9",
+        "sha1": "0fcd29e611f1ffb950bd32166a8a15c56c9b2cde",
+        "sha256": "04022c54499a462b7c27c668c92042317aed62a5a618de1b0e7d6c149670d1f5"
+      },
+      "dob": "1952-09-01 16:50:20",
+      "registered": "2015-02-10 08:06:09",
+      "phone": "(089)-192-5191",
+      "cell": "(012)-487-3442",
+      "id": {
+        "name": "SSN",
+        "value": "021-48-4240"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/60.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/60.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/60.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "nick",
+        "last": "henry"
+      },
+      "location": {
+        "street": "7769 novara avenue",
+        "city": "kilcoole",
+        "state": "offaly",
+        "postcode": 37850
+      },
+      "email": "nick.henry@example.com",
+      "login": {
+        "username": "greencat806",
+        "password": "mike",
+        "salt": "rWNJd1HU",
+        "md5": "31635ce342ea85afa908b9c5ef610f2b",
+        "sha1": "434b2a54a5d4c273808171b86b026d6f4046e246",
+        "sha256": "20fcc3ca1d913c5c86a5fdbad63e656bb3d7ba658cef47f7b2986e3f739738d6"
+      },
+      "dob": "1971-06-29 04:08:16",
+      "registered": "2012-12-06 17:23:32",
+      "phone": "021-851-8157",
+      "cell": "081-992-5066",
+      "id": {
+        "name": "PPS",
+        "value": "4339157T"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/66.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/66.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
+      },
+      "nat": "IE"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "ms",
+        "first": "renee",
+        "last": "shelton"
+      },
+      "location": {
+        "street": "2188 walnut hill ln",
+        "city": "el monte",
+        "state": "iowa",
+        "postcode": 53993
+      },
+      "email": "renee.shelton@example.com",
+      "login": {
+        "username": "lazysnake543",
+        "password": "mark",
+        "salt": "hGUU0ko0",
+        "md5": "1492621714664975ad75d17084c2425d",
+        "sha1": "fd2d87cc284f21862d9db6549d1a9bc2ccf523ae",
+        "sha256": "ddcb099954e3e7549c32012cf9ba09ada180c523257ff7a5a1a89a9a8048f8fa"
+      },
+      "dob": "1952-06-12 19:53:38",
+      "registered": "2004-01-07 22:59:17",
+      "phone": "(584)-331-8676",
+      "cell": "(455)-614-0898",
+      "id": {
+        "name": "SSN",
+        "value": "323-45-6942"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/74.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/74.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/74.jpg"
+      },
+      "nat": "US"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "miss",
+        "first": "hanne",
+        "last": "klose"
+      },
+      "location": {
+        "street": "2711 tannenweg",
+        "city": "heidenheim",
+        "state": "nordrhein-westfalen",
+        "postcode": 73840
+      },
+      "email": "hanne.klose@example.com",
+      "login": {
+        "username": "orangerabbit976",
+        "password": "tickle",
+        "salt": "gJpqef5l",
+        "md5": "e7d8370f7b6060806bbb9c23ffcca26c",
+        "sha1": "f514c58fd09b062164f24ce7a5c3e284bfddf2d9",
+        "sha256": "3b6a6319efd9e3fb7581a3d07ed5793a46dc7f4fa8789040b6e3615d8514deb7"
+      },
+      "dob": "1973-11-03 08:34:14",
+      "registered": "2007-02-15 03:56:39",
+      "phone": "0689-9651101",
+      "cell": "0173-8594683",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/61.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/61.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/61.jpg"
+      },
+      "nat": "DE"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "ms",
+        "first": "mathilde",
+        "last": "voigt"
+      },
+      "location": {
+        "street": "4267 marktplatz",
+        "city": "mainz-bingen",
+        "state": "berlin",
+        "postcode": 29810
+      },
+      "email": "mathilde.voigt@example.com",
+      "login": {
+        "username": "greenbird103",
+        "password": "bunghole",
+        "salt": "iAXSsuRv",
+        "md5": "8653f0371899a4933f64b004d0eb04bd",
+        "sha1": "254bf3dac6e48203397386f06a571a55b5c4d941",
+        "sha256": "91df3121debf139e484fedb86c2a798907dda34a9f05500ea544b2ca952e08a0"
+      },
+      "dob": "1960-03-14 01:22:49",
+      "registered": "2007-08-03 13:07:08",
+      "phone": "0968-7750501",
+      "cell": "0179-2437004",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/42.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/42.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/42.jpg"
+      },
+      "nat": "DE"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "archer",
+        "last": "thomas"
+      },
+      "location": {
+        "street": "8447 bank street",
+        "city": "blenheim",
+        "state": "nelson",
+        "postcode": 89160
+      },
+      "email": "archer.thomas@example.com",
+      "login": {
+        "username": "whiterabbit102",
+        "password": "infantry",
+        "salt": "yeXg5h6t",
+        "md5": "daf27a166f00750d24cf58cc8e301452",
+        "sha1": "724287d9c8a1f1e09749a6028f71af8fdf0e1da9",
+        "sha256": "969dd9d848440e893045e526042682c9659b7c550692d27426620879f53d44cb"
+      },
+      "dob": "1957-08-23 06:44:50",
+      "registered": "2015-06-22 14:22:32",
+      "phone": "(118)-535-4403",
+      "cell": "(912)-365-5480",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/27.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
+      },
+      "nat": "NZ"
+    }
+  ],
+  "info": {
+    "seed": "f0f5d468dd0e27cd",
+    "results": 10,
+    "page": 1,
+    "version": "1.1"
+  }
+}
